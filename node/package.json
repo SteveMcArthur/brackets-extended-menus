@@ -1,0 +1,8 @@
+{
+  "name": "stevemc.extended-menus-node",
+  "description": "Node modules for the Brackets rightclick extras extension",
+  "version": "0.1.0",
+  "dependencies": {
+    "cheerio": "~0.15.0"
+  }
+}

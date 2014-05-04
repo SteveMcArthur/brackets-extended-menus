@@ -1,0 +1,18 @@
+{
+  "name": "stevemc.extended-menus",
+  "title": "Extended menus",
+  "description": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "author": "Steve McArthur <contact@stevemcarthur.co.uk>",
+  "files": [
+    "main.js",
+    "string-functions.js",
+	 "node/CherrioDomain.js 
+  ],
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.30.0"
+  },
+  "dependencies": { }
+}
